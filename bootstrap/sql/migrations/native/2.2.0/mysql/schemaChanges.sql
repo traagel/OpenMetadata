@@ -1,0 +1,2 @@
+-- 2.2.0 has no schema changes. The directory structure is mandatory for the migration
+-- framework to pick the version up; the data backfill lives in postDataMigrationSQLScript.sql.
